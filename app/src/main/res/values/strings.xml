@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SpotifyActividad</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tu_biblioteca">Tu biblioteca</string>
+    <string name="buscar">buscar</string>
+    <string name="inicio">inicio</string>
+    <string name="premium">premium</string>
+    <string name="bienvenido_a_spotify" />
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/inicioFragment"
+        android:icon="@drawable/ic_inicio"
+        android:title="@string/inicio"
+        />
+
+    <item
+        android:id="@+id/searchFragment"
+        android:icon="@drawable/ic_lupa"
+        android:title="@string/buscar"
+
+        />
+
+    <item
+        android:id="@+id/biblioFragment"
+        android:icon="@drawable/ic_libreria"
+        android:title="@string/tu_biblioteca"
+
+        />
+
+    <item
+        android:id="@+id/premiumFragment"
+        android:icon="@drawable/ic_premium"
+        android:title="@string/premium"
+
+        />
+</menu>
